@@ -27,7 +27,7 @@ public class PetClinicTest {
     //driver = new ChromeDriver();
 	DesiredCapabilities capabilities = DesiredCapabilities.phantomjs();
     driver = new PhantomJSDriver(capabilities);
-    baseUrl = "http://192.168.9.253:8080/petclinic";
+    baseUrl = "http://10.10.10.10";
     driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
   }
 
