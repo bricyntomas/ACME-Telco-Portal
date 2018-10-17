@@ -25,11 +25,7 @@
 
     <jsp:include page="fragments/footer.jsp"/>
 
-	Test for Code Commit
-	Test for Code Commit
-	Test for Code Commit
-	Test for Code Commit
-
+	
 </div>
 </body>
 
