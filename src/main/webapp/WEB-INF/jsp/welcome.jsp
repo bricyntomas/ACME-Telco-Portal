@@ -16,6 +16,7 @@
     <img src="${petsImage}"/>
 
     <jsp:include page="fragments/footer.jsp"/>
+	
 </div>
 </body>
 
