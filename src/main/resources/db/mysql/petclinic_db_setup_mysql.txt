@@ -22,3 +22,5 @@
 4) Open "src/main/resources/spring/jdbc.properties"; comment out all properties in the
    "HSQL Settings" section; uncomment all properties in the "MySQL Settings"
    section.
+   
+   follow above steps to get up and running 
