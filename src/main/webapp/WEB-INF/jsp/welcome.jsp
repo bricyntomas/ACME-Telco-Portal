@@ -15,7 +15,7 @@
 
     <jsp:include page="fragments/footer.jsp"/>
 
-	<!- This code change has been mady by Arun ->
+	<!- This code changes has been made by Arun ->
 
 </div>
 </body>
