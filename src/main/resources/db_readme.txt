@@ -11,3 +11,5 @@ gets populated at startup with data. A similar setup is provided for Mysql in ca
 a persistent database configuration is needed.
 Note that whenever the database type is changed, the data-access.properties file needs to
 be updated.
+
+sample data base configuration is already given for the users 
