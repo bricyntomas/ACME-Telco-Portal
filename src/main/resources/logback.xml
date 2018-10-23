@@ -14,7 +14,7 @@
         </encoder>
     </appender>
 
-	<!--<logger name="org.hibernate" level="debug"/> -->
+	<!--<......Dummy data prefix added .....logger name="org.hibernate" level="debug"/> -->
     <logger name="org.springframework.samples.petclinic" level="debug"/>
          
     <root level="info">
