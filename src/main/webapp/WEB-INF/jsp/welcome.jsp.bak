@@ -14,9 +14,6 @@
     <img src="${petsImage}"/>
 
     <jsp:include page="fragments/footer.jsp"/>
-
-	<!- This code change has been mady by Arun ->
-
 </div>
 </body>
 
